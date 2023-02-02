@@ -6,12 +6,12 @@ In this document, you will find an extensive collection of information regarding
 
 
 :::info
-:bulb: This document is under development. Last update: Jan, 31
+:bulb: This document is under development. Last update: Feb 2, 2023
 
 **Find this document incomplete? Leave a comment!**
 :::
 
-👉 Beaconverse Updates
+👉 [Beaconverse Updates](https://github.com/0xarmagan/Beaconverse-Updates/blob/main/Beaconverse%20Updates.md)
 
 Thank you! You can find me on
 
